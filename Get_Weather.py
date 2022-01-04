@@ -1,6 +1,6 @@
 # 天气查询脚本
-# 作者：Charles
-# 公众号：Charles的皮卡丘
+# 作者：单宏卓
+
 import requests
 import json
 import time
