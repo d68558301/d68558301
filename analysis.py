@@ -1,7 +1,6 @@
 # 天气分析脚本
-# 作者：Charles
-# 公众号：Charles的皮卡丘
-from Get_Weather import Query
+# 作者：单宏卓
+从 Get_Weather 导入 查询
 from PIL import Image, ImageDraw, ImageFont
 from pyecharts import Bar
 from pyecharts import Geo
